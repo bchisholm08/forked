@@ -1,0 +1,21 @@
+/* General Styling */
+#inner-demo-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center; /* Centers horizontally */
+}
+
+/* ASCII Art Styling */
+.ascii-art {
+  font-family: monospace; /* Ensures consistent alignment for ASCII art */
+  font-size: 8px;
+  line-height: 1.2; /* Adjust line height for better spacing */
+}
+
+/* Name Styling */
+.name {
+  font-size: 48px;
+  color: #000;
+}
