@@ -1,2 +1,3 @@
 # rdmeAnimation
-Created in CodeSandbox. Introduction animation / graphic for profile ReadMe document.  
+Introduction animation / graphic for profile ReadMe document.  
+Created in CodeSandbox. 
